@@ -1,7 +1,4 @@
 # Mmanas-Tech — UI/UX Designer & Frontend Developer
-
-A premium, dark-themed 3D portfolio landing page built with React, TypeScript, Tailwind CSS, and Framer Motion. Features a custom 3D mascot, scroll-driven marquee, magnetic hero interaction, sticky-stacking project cards, character-by-character scroll-reveal text, and a fullscreen contact overlay with browser-history integration.
-
 ## Table of Contents
 
 - [Overview](#overview)
